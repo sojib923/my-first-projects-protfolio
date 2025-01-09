@@ -124,3 +124,23 @@ main{
 .skill{
     border-radius: 5px;
 }
+/* resume-section-title */
+.resume-container{
+    display: flex;
+    gap: 24px;
+    
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.experience-description, .experience-sub-title{
+    color: #757575;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+/* .btn-primary{
+    text-align: center;
+} */
